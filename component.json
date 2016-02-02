@@ -1,0 +1,15 @@
+{
+    "name": "fstream",
+    "description": "Advanced file system stream things",
+    "repos": "https://github.com/isaacs/fstream.git",
+    "main": "fstream.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "graceful-fs": "3",
+        "inherits": "~2.0.0",
+        "mkdirp": ">=0.5 0",
+        "rimraf": "2"
+    },
+    "version": "1.0.2"
+}
